@@ -1,0 +1,1 @@
+This app helps farmers use the right amount of fertilizer to grow more crops without waste. It predicts crop yield based on soil nutrients, pH, rainfall, and sunlight using a machine learning model. The app gives easy-to-understand fertilizer suggestions to improve yield, save money, and protect the environment. Built with Python and Streamlit for a simple interactive interface.
