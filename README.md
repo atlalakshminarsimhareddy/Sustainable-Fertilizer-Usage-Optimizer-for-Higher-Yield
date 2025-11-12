@@ -1,4 +1,4 @@
-#  Smart Fertilizer Recommendation and Crop Yield Prediction
+#  Sustainable Fertilizer Recommendation and Crop Yield Prediction
 
 This project helps **farmers use the right amount of fertilizer** to grow more crops without wasting resources. It uses **machine learning** to predict crop yield based on important environmental and soil factors such as **nutrient levels, pH value, rainfall, and sunlight**. By analyzing these factors, the system provides easy-to-understand fertilizer suggestions that can help **increase yield, reduce cost, and protect the environment**.
 
